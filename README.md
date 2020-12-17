@@ -14,15 +14,25 @@ Feel free to download and create your own images for the stream decks. All three
 2. Open PhotoShop file (obviously in PhotoShop)
 3. Place your desired imaged on the file
 4. Drag your image layer underneath the "Deck" layer
+
+![image](https://github.com/MishManners/stream-deck-template/blob/main/Screenshots/Layers.JPG)
+
 5. Move your image around as desired (make sure you can see what you want through the keys)
 6. When happy with the image and how it looks, hide the "Deck" layer
+
+![image](https://github.com/MishManners/stream-deck-template/blob/main/Screenshots/Eye%20off.JPG)
+
 7. Export for finised product as JPEG or PNG.
 
 When happy with everything, head to the settings on your stream deck by opening "Stream Deck" software. Add the "Sleep" button and select your new screensaver.
 
+![image](https://github.com/MishManners/stream-deck-template/blob/main/Screenshots/Sleep%20Button.JPG)
+
 ## Examples
 
 Feel free to download and use the examples here. Go to the file and download each individually as those files will have the clean image (without the guiding grid).
+
+![image](https://github.com/MishManners/stream-deck-template/blob/main/Examples/Christmas%20Example%20Grid.png)
 
 ## Assets used
 
