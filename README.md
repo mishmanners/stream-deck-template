@@ -10,7 +10,7 @@ Feel free to download and create your own images for the stream decks. All three
 
 ## Instructions
 
-1. Download .psd file
+1. Download .psd template file from the "Templates" folder.
 2. Open PhotoShop file (obviously in PhotoShop)
 3. Place your desired imaged on the file
 4. Drag your image layer underneath the "Deck" layer
