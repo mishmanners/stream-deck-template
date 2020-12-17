@@ -18,6 +18,8 @@ Feel free to download and create your own images for the stream decks. All three
 6. When happy with the image and how it looks, hide the "Deck" layer
 7. Export for finised product as JPEG or PNG.
 
+When happy with everything, head to the settings on your stream deck by opening "Stream Deck" software. Add the "Sleep" button and select your new screensaver.
+
 ## Examples
 
 Feel free to download and use the examples here. Go to the file and download each individually as those files will have the clean image (without the guiding grid).
