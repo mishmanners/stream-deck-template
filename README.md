@@ -1,10 +1,8 @@
 # Stream Deck Template for Screensaver
 
-Template for the Elgato Stream Deck's new screensaver.
+Template for the Elgato Stream Deck's screensaver mode. Template created by taking physical measurements of the Stream Decks and building the template in PhotoShop.
 
 The examples we've built are Christmas themed featuring GitHub, Twilio, and Microsoft.
-
-Template created by taking physical measurements of the Stream Decks and building the template in PhotoShop.
 
 Feel free to download and create your own images for the stream decks. All three sizes of stream deck are available: Mini, Standard, and XL.
 
