@@ -20,12 +20,17 @@ Feel free to download and create your own images for the stream decks. All three
 
 ## Examples
 
+Feel free to download and use the examples here. Go to the file and download each individually as those files will have the clean image (without the guiding grid).
+
 ## Assets used
 
 - GitHub Saint Nicholas octocat, available from the [Octodex](https://octodex.github.com/saint_nictocat/)
 - Octocat Avatar, built using [My Octocat generator](https://myoctocat.com/build-your-octocat/)
 - Twilio Avatar, built using generator from [Twilio Signal Conf](https://signal.twilio.com/)
 - Azure Racoon, available from [Festive Tech Calendar](https://festivetechcalendar.com/)
+- Icons from [Simple Icons](https://simpleicons.org/)
+- XL example photo by [Gary Runn](https://unsplash.com/@garunn) on [Unsplash](https://unsplash.com/)
+- Mini example photo by [Rodion Kutsaev](https://unsplash.com/@frostroomhead) on [Unsplash](https://unsplash.com/)
 
 ## Gift of Code
 
