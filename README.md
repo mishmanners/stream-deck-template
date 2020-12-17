@@ -10,9 +10,8 @@ Template created by taking physical measurements of the Stream Decks and buildin
 
 1. Download .psd file
 2. Open PhotoShop file (obviously in PhotoShop)
-3. What you'll see are a number of layers. The green layer is where you image will go. So choose a cool image that fits this.
-4. Place your desired imaged on top of the file
-5. Drag your new image layer underneath the "Green Layer"
-6. Hide "Green layer"
-7. Move your image around as desired (make sure you can see what you want through the keys)
-8. When happy with the image and how it looks, hide the "Keys" layer
+3. Place your desired imaged on the file
+4. Drag your image layer underneath the "Deck" layer
+5. Move your image around as desired (make sure you can see what you want through the keys)
+6. When happy with the image and how it looks, hide the "Deck" layer
+7. Export for finised product as JPEG or PNG.
