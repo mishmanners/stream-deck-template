@@ -21,6 +21,7 @@ Feel free to download and create your own images for the stream decks. All three
 ![image](https://github.com/MishManners/stream-deck-template/blob/main/Screenshots/Eye%20off.JPG)
 
 *The reason you should hide the "Deck" layer is so the image bleeds through the keys and there's no black space showing.*
+
 7. Export for finised product as JPEG or PNG.
 
 When happy with everything, head to the settings on your stream deck by opening "Stream Deck" software. Add the "Sleep" button and select your new screensaver.
