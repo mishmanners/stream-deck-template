@@ -1,6 +1,6 @@
 # Stream Deck Template for Screensaver
 
-Template for the Elgato Stream Deck's screensaver mode. Template created by taking physical measurements of the Stream Decks and building the template in PhotoShop. The template is perfect for ensuring for image lines up in the LED keys perfectly.
+Template for the Elgato Stream Deck's screensaver (or "sleep") mode. Template created by taking physical measurements of the Stream Decks and building the template in PhotoShop. The template is perfect for ensuring for image lines up in the LED keys perfectly.
 
 The examples we've built are Christmas themed featuring GitHub, Twilio, and Microsoft.
 
