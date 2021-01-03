@@ -24,7 +24,7 @@ Feel free to download and create your own images for the stream decks. All three
 
 7. Export for finised product as JPEG or PNG.
 
-When happy with everything, head to the settings on your stream deck by opening "Stream Deck" software. Add the "Sleep" button and select your new screensaver.
+When you are happy with how this looks, head to the settings on your stream deck by opening "Stream Deck" software. Add the "Sleep" button and select your new screensaver.
 
 ![image](https://github.com/MishManners/stream-deck-template/blob/main/Screenshots/Sleep%20Button.JPG)
 
