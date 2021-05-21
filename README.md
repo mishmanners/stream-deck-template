@@ -49,3 +49,5 @@ Feel free to download and use the examples here. Go to the file and download eac
 This is my Gift to you all for Christmas 2020. Enjoy and have an awesome festive season. If you want to see it all in action and watch me create these assets live, check out the [Gift of Code live stream recording](https://www.twitch.tv/videos/841372783) and enjoy some fun. You can always tune in for a live stream anytime on my [Twitch Channel](https://twitch.tv/MishManners).
 
 ![image](https://github.com/MishManners/stream-deck-template/blob/main/Gift%20of%20Code.JPG)
+
+Since this is not code, I have added a Creative Commons (CC) License to this repo. Now anyone is free to use the files as they see fit under the Creative Commons License.
