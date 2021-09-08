@@ -50,4 +50,4 @@ This is my Gift to you all for Christmas 2020. Enjoy and have an awesome festive
 
 ![image](https://github.com/MishManners/stream-deck-template/blob/main/Gift%20of%20Code.JPG)
 
-Since this is not code, I have added a Creative Commons (CC) License to this repo. Now anyone is free to use the files as they see fit under the Creative Commons License.
+Since this is not code, I have added a Creative Commons (CC) License to this repo. Now anyone is free to use the files as they see fit under the Creative Commons License. If you'd like to make reference/thanks to this repo/creator, please do.
